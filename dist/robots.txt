@@ -1,0 +1,39 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://durgeshmalviya.co.in/sitemap.xml
+Sitemap: https://durgeshmalviya.co.in/sitemap-index.xml
+
+# Identity Markers (Crawl Comments)
+# Entity: Person
+# Name: Durgesh Malviya
+# Alias: durgeshdev
+# Profession: Fullstack JavaScript & MERN Developer
+# Model: Remote Worldwide
+# Canonical: https://durgeshmalviya.co.in
+# Skills: React, Node.js, MongoDB, SaaS, APIs
+
+# Allow all AI crawlers
+User-agent: GPTBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Allow major search engines
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: YandexBot
+Allow: /
+
+# Clean tracking params
+Clean-param: utm
+Clean-param: gclid
+Clean-param: fbclid

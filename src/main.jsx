@@ -6,7 +6,9 @@ import { BrowserRouter } from "react-router-dom";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { Geiger } from "react-geiger";
+import { inject } from '@vercel/analytics';
 
+inject();
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <BrowserRouter>

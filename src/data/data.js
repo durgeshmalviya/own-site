@@ -1,31 +1,5 @@
 export const data = [
    
-
-  // {
-  //   id: 3,
-  //   img: "https://res.cloudinary.com/dcsouj6ix/image/upload/v1709659832/My%20Portfolio/2_jlgxki.png",
-  //   title: "Nike UI Clone",
-  //   desc: "A Nike clone built using Next.js and Tailwind CSS.",
-  //   link: "https://nike-clones.vercel.app/",
-  //   git: "",
-  // },
-
-  // {
-  //   id: 4,
-  //   img: "https://ik.imagekit.io/imgkitt/tr:w-800/ecommerce.jpeg?updatedAt=1683134011136",
-  //   title: "Ecommerce Clone",
-  //   desc: "This is an e-commerce web application built using React JS, SCSS, Redux Toolkit, and a Dummy JSON API. It includes search functionality, as well as the ability to add and remove items from a shopping cart.",
-  //   link: "https://redux-store-app.netlify.app/",
-  //   git: "https://github.com/SandipNITA2025/react-redux-ecommerce",
-  // },
-  // {
-  //   id: 6,
-  //   img: "https://res.cloudinary.com/dcsouj6ix/image/upload/v1709659832/My%20Portfolio/1_mdizwg.png",
-  //   title: "Blog Website",
-  //   desc: "A full-stack web app using ReactJS, Tailwind CSS, ExpressJS, and MongoDB. Features include user authentication and CRUD functionality for creating, editing, and deleting posts, with the ability to view posts by other users.",
-  //   link: "https://blog-web-app-delta.vercel.app/",
-  //   git: "https://github.com/SandipNITA2025/MERN-STACK---BLOG-POST-WEB",
-  // },
   {
     id: 7,
     img: "https://i.ibb.co/q34gh12x/News.jpg",

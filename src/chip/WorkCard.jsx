@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import styled from "styled-components";
 import { data } from "../data/data";
 import { RxExternalLink } from "react-icons/rx";
@@ -7,7 +6,7 @@ import { Link } from "react-router-dom";
 import { Rocket } from "lucide-react";
 
 const WorkCard = () => {
-  const reversedData = [...data].filter((item, id) => id !== 1).reverse();
+  const reversedData = [...data].filter((item, id) => id )
 
   return (
     <>

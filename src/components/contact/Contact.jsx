@@ -5,7 +5,7 @@ import { RiSendPlaneFill } from "react-icons/ri";
 const Contact = () => {
   return (
     <div id="contact" className="container m-auto mt-16">
-      {/* heading */}
+ 
       <div className="relative mb-5">
         <h3 className="text-3xl font-black text-gray-400 sm:text-2xl">
           Contact
@@ -13,7 +13,6 @@ const Contact = () => {
         <span className="h-[1.1px] right-0 absolute w-[92%] bg-gray-300 block"></span>
       </div>
 
-      {/* card */}
       <div className="card-wrapper w-[90%] sm:w-[100%] mx-auto mt-16 flex items-center justify-center sm:flex-col">
         <div className="left w-[70%] flex-1 flex items-center justify-center sm:flex-col sm:w-full">
           <div className="flex-3 w-1/2 gap-3 flex items-end justify-end flex-col sm:w-3/4">

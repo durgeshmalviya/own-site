@@ -84,3 +84,11 @@ html {
     transform: rotate(360deg);
   }
 }
+.cards .card:hover {
+  transform: scale(1.1);
+}
+
+.cards:hover > .card:not(:hover) {
+  filter: blur(6px);
+  transform: scale(0.9);
+}

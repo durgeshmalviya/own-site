@@ -36,7 +36,7 @@ const Contact = () => {
           <form
             data-aos="zoom-in"
             className="flex justify-center items-center flex-col gap-5 w-[70%] md:w-[100%] sm:w-[95%] mx-auto"
-            action="https://formspree.io/f/mwplvbra"
+            action="https://formspree.io/f/mlgggvvp"
             method="POST"
           >
             <input
